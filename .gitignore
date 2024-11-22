@@ -1,0 +1,8 @@
+# Entorno virtual
+venv/
+*.pyc
+__pycache__/
+db.sqlite3  # Evitar subir bases de datos locales
+.DS_Store  # Archivos temporales de macOS
+*.log
+*.env  # Archivos de configuración sensibles
